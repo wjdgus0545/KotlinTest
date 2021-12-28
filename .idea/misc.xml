@@ -3,12 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/오정현/.gradle/caches/transforms-3/8e2706a300bbec00002d22cf9bfadad6/transformed/appcompat-1.4.0/res/drawable/abc_btn_borderless_material.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/오정현/.gradle/caches/transforms-3/8e2706a300bbec00002d22cf9bfadad6/transformed/appcompat-1.4.0/res/drawable/abc_btn_check_material.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/오정현/.gradle/caches/transforms-3/8e2706a300bbec00002d22cf9bfadad6/transformed/appcompat-1.4.0/res/drawable/abc_cab_background_internal_bg.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/오정현/.gradle/caches/transforms-3/8e2706a300bbec00002d22cf9bfadad6/transformed/appcompat-1.4.0/res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml" value="0.26979166666666665" />
         <entry key="..\:/android-sdk/KotlinTest/app/src/main/res/layout/activity_java.xml" value="0.25364583333333335" />
         <entry key="..\:/android-sdk/KotlinTest/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/android-sdk/KotlinTest/ch6_view/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/android-sdk/KotlinTest/ch7_layout/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/android-sdk/KotlinTest/ch8_event/src/main/res/drawable/round_button.xml" value="0.26979166666666665" />
         <entry key="..\:/android-sdk/KotlinTest/ch8_event/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/android-sdk/KotlinTest/ch9_resource/src/main/res/drawable/round_button.xml" value="0.26979166666666665" />
+        <entry key="..\:/android-sdk/KotlinTest/ch9_resource/src/main/res/layout-land/activity_main.xml" value="0.2" />
+        <entry key="..\:/android-sdk/KotlinTest/ch9_resource/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/android-sdk/platforms/android-32/data/res/drawable/ab_share_pack_material.xml" value="0.26979166666666665" />
+        <entry key="..\:/android-sdk/platforms/android-32/data/res/drawable/ab_solid_shadow_material.xml" value="0.26979166666666665" />
       </map>
     </option>
   </component>
