@@ -41,7 +41,8 @@ class MainActivity : AppCompatActivity() {
         if(et_email.text.toString() == "ohsopp@naver.com" && et_password.text.toString() == "1234" &&
                 et_name.text.toString() == "ohsopp" && et_age.text.toString() == "24") {
             Toast.makeText(this, "Login success", Toast.LENGTH_SHORT).show()
-
+            val showIntent = Intent(this, JavaActivity::class.java)
+            startActivity(showIntent)
         }
         else Toast.makeText(this, "Login failed", Toast.LENGTH_SHORT).show()
     }
